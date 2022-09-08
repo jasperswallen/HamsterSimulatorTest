@@ -1,0 +1,3 @@
+[submodule "simulator/mbed-benchtest"]
+	path = simulator/mbed-benchtest
+	url = git@github.com:USCRPL/mbed-benchtest.git
